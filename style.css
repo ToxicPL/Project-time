@@ -1,0 +1,10 @@
+body{
+    background-image: url(background.jpg);
+    font-family: 'Mansalva', cursive;
+}
+
+#time{
+    text-align: center;
+    font-size: 65px;
+    font-weight: 900;
+}
