@@ -8,3 +8,13 @@ body{
     font-size: 65px;
     font-weight: 900;
 }
+
+.inp {
+    padding: 2px;
+}
+
+.form {
+    margin-top: 250px;
+    display: flex;
+    justify-content: center;
+}
